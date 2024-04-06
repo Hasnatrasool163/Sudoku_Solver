@@ -27,12 +27,10 @@ Running the Application
 Clone the repository or download the source code.
 Navigate to the directory containing the SudokuGUI.java file.
 Compile the Java program:
-shell
-Copy code
+
 javac SudokuGUI.java
 Run the compiled Java program:
-shell
-Copy code
+
 java SudokuGUI
 The Sudoku GUI should now open, displaying a randomly generated puzzle ready for interaction.
 
