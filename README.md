@@ -14,6 +14,17 @@ A simple, interactive Sudoku puzzle solver built with Java Swing. This applicati
 
 ## Getting Started
 
+
+##ScreenShots
+
+![Screenshot (799)](https://github.com/Hasnatrasool163/Sudoku_Solver/assets/153990457/9175898f-3232-41ca-ad05-5b4176940dc7)
+
+
+![Screenshot (800)](https://github.com/Hasnatrasool163/Sudoku_Solver/assets/153990457/d338dce9-640f-4f52-80f6-b9a79932e8a3)
+
+
+
+
 ### Prerequisites
 
 Ensure you have Java installed on your system. You can check your Java version by running:
@@ -38,16 +49,6 @@ How It Works
 The Sudoku Solver utilizes a backtracking algorithm to fill the Sudoku board with valid numbers.
 The Puzzle Generator randomly fills the board with numbers and then removes a certain number of elements to create a solvable Sudoku puzzle.
 Users can reset the board at any time to get a new puzzle or solve the current puzzle on the board.
-
-
-Screenshots
-
-![Screenshot (799)](https://github.com/Hasnatrasool163/Sudoku_Solver/assets/153990457/c00359f7-db00-4e20-a834-1d80fa0df90b)
-
-
-![Screenshot (800)](https://github.com/Hasnatrasool163/Sudoku_Solver/assets/153990457/4db0cbc4-9357-4b2e-a7ac-4a84c8ba2fc5)
-
-
 
 Contributing
 Contributions are welcome! Please feel free to submit pull requests, suggest features, or report bugs.
